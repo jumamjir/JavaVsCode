@@ -1,0 +1,13 @@
+{
+    "java.dependency.packagePresentation": "hierarchical",
+    "java.project.explorer.showNonJavaResources": false,
+    "java.project.sourcePaths": [
+        ".",
+        "Guanabara",
+        "ProgramaIdade",
+        "ProgramaPernasProjeto",
+        "ProgramaPernasProjeto\\src",
+        "TestandoMeuNgcDeProjetos\\src"
+    ],
+    "java.project.referencedLibraries": []
+}

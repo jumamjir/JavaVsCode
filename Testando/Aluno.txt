@@ -1,0 +1,46 @@
+import java.util.Scanner;
+
+public class Aluno {
+
+    
+    public void exibirInformacoes() {
+
+        String nome;
+        String endereco;
+        int telefone;
+        String email;
+        int matricula;
+
+        Scanner teclado = new Scanner(System.in);
+        System.out.print("Digite seu nome:");
+        nome = teclado.next();
+
+        System.out.print("Digite seu endereco:");
+        endereco = teclado.next();
+
+        System.out.print("Digite seu telefone:");
+        telefone = teclado.nextInt();
+
+        System.out.print("Digite seu email:");
+        email = teclado.next();
+
+        System.out.print("Digite sua matricula:");
+        matricula = teclado.nextInt();
+
+        System.out.println("-------------------------------------------------");
+
+       System.out.println("Seu nome é: " + nome);
+       System.out.println("Seu endereco é: " + endereco);
+       System.out.println("Seu telefone é: " + telefone);
+       System.out.println("Seu email é: " + email);
+       System.out.println("Sua matricula é: " + matricula);
+
+
+       teclado.close();
+
+
+
+       
+       
+    }
+}

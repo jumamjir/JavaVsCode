@@ -1,0 +1,147 @@
+{
+    // Use o IntelliSense para saber mais sobre os atributos possíveis.
+    // Focalizar para exibir as descrições dos atributos existentes.
+    // Para obter mais informações, acesse: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Principal",
+            "request": "launch",
+            "mainClass": "Testando.src.Principal",
+            "projectName": "Java Vscode_5baebf2"
+        },
+        {
+            "type": "java",
+            "name": "Vetor05",
+            "request": "launch",
+            "mainClass": "Vetor05.src.Vetor05",
+            "projectName": "Java Vscode_5baebf2"
+        },
+        {
+            "type": "java",
+            "name": "VetorGuanabara",
+            "request": "launch",
+            "mainClass": "VetorGuanabara.src.VetorGuanabara",
+            "projectName": "Java Vscode_5baebf2"
+        },
+        {
+            "type": "java",
+            "name": "Aul11",
+            "request": "launch",
+            "mainClass": "Aul11.src.Aul11",
+            "projectName": "Java Vscode_5baebf2"
+        },
+        {
+            "type": "java",
+            "name": "Teste",
+            "request": "launch",
+            "mainClass": "Teste.src.Teste",
+            "projectName": "Java Vscode_5baebf2"
+        },
+        {
+            "type": "java",
+            "name": "ProgramaIdade",
+            "request": "launch",
+            "mainClass": "ProgramaIdade",
+            "projectName": "Java Vscode_5baebf2"
+        },
+        {
+            "type": "java",
+            "name": "ProgramaPernasProjeto",
+            "request": "launch",
+            "mainClass": "src.ProgramaPernasProjeto",
+            "projectName": "Java Vscode_5baebf2"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "Guanabara.Main",
+            "projectName": "Java Vscode_5baebf2"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "TestandoMeuNgcDeProjetos.src.Main",
+            "projectName": "Java Vscode_5baebf2"
+        },
+        {
+            "type": "java",
+            "name": "ProgramaPernasProjeto",
+            "request": "launch",
+            "mainClass": "ProgramaPernasProjeto.ProgramaPernasProjeto",
+            "projectName": "Java Vscode_5baebf2"
+        },
+        {
+            "type": "java",
+            "name": "ProgramaPernasProjeto",
+            "request": "launch",
+            "mainClass": "ProgramaPernasProjeto",
+            "projectName": "Java Vscode_5baebf2"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "ProgramaPernasProjeto.ProgramaPernasProjeto"
+        },
+        {
+            "type": "java",
+            "name": "Data",
+            "request": "launch",
+            "mainClass": "Data",
+            "projectName": "Java Vscode_5baebf2"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "Main",
+            "projectName": "Java Vscode_5baebf2"
+        },
+        {
+            "type": "java",
+            "name": "OperadoresLogicos",
+            "request": "launch",
+            "mainClass": "OperadoresLogicos.OperadoresLogicos",
+            "projectName": "Java Vscode_5baebf2"
+        },
+        {
+            "type": "java",
+            "name": "ProgramaIdade",
+            "request": "launch",
+            "mainClass": "ProgramaIdade.ProgramaIdade",
+            "projectName": "Java Vscode_5baebf2"
+        },
+        {
+            "type": "java",
+            "name": "ProgramaMedia",
+            "request": "launch",
+            "mainClass": "ProgramaMedia.ProgramaMedia",
+            "projectName": "Java Vscode_5baebf2"
+        },
+        {
+            "type": "java",
+            "name": "ProgramaPernas",
+            "request": "launch",
+            "mainClass": "ProgramaPernas.src.ProgramaPernas",
+            "projectName": "Java Vscode_5baebf2"
+        },
+        {
+            "type": "java",
+            "name": "TesteAula8",
+            "request": "launch",
+            "mainClass": "TesteAula8.TesteAula8",
+            "projectName": "Java Vscode_5baebf2"
+        },
+        {
+            "type": "java",
+            "name": "compararstrg",
+            "request": "launch",
+            "mainClass": "compararstrg.compararstrg",
+            "projectName": "Java Vscode_5baebf2"
+        }
+    ]
+}
